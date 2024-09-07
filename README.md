@@ -33,30 +33,5 @@ If a match is found, the corresponding legal response is shown to the user.
 - Displays the response for user query with detailed description, punishments, pros, cons. ✉︎
 - Offers a user-friendly interface for asking legal questions. 🔗
 
-## Usage
-1. 
-2.
-3. 
-4. 
-
-## Technologies Used
-- Large Language Models (LLM)
-- Vector Databases
-- RAG (Retrieval-Augmented Generation) Model
-- Python
-
-## Installation
-```bash
-git clone https://github.com/your_username/legal-chatbot.git
-cd legal-chatbot
-pip install -r requirements.txt
-python app.py
-```
-
-## Contributing
-
-## License
-This project is under [MIT Licence](LICENSE)
-
 ## Contact
 For any inquiries or feedback, please contact [VINAY REDDY] at [kunduvinayredde@gmail.com].
