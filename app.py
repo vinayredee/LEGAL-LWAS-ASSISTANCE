@@ -12,7 +12,8 @@ st.title("LEGAL LAWS ADVISOR BOT 🎗️ ")
 # Info Section
 st.info("""
   Legal Laws Advisor Bot:📄
-- **Objective:** Developed a conversational AI chatbot to provide legal law info and assistance.
+- **Objective:** Developed a conversational chatbot to provide legal law info and assistance.
+- **Every citizen should be aware of law.
 - **Features:**📜
   -  Allows users to ask their query of law. 𓍝
   -  Provides a response to user query. ✔
