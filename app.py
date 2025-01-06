@@ -5,7 +5,7 @@ import threading
 import pandas as pd
 import json
 
-# Initialize text-to-speech engine
+# Initialize text-to-speech enginer
 engine = pyttsx3.init()
 
 # Initialize session state attributes if not already set
